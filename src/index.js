@@ -1,4 +1,8 @@
 import './css/style.css';
 
-import './js/team';
+import './js/character';
+
+import './js/ArrayBufferConverter';
+
+import './js/getBuffer';
 
